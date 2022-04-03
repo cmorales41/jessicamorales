@@ -12,3 +12,56 @@
 	border-radius: 40px;
 	align-content: center;
 }
+
+h2 ,h3{
+	text-align: center;
+	color: #021c1e;
+}
+
+.contenido1{
+	background-color: #fb6542;
+	padding: 4px;
+	border-radius: 3px;}
+
+body{
+	background-image: url(pic/fondo.webp);
+
+justify-content: center;
+
+}
+
+.motivos{
+	display: block;
+	background-image: url(PIC/AA4.png);
+}
+
+.modelos{
+	display: flex;
+	justify-content: center;
+}
+.jes{
+	display: flex;
+	justify-content: center;
+}
+
+.jes video{
+	height: 176px;
+	width: 300px;
+	margin-top: 5px;
+	border-radius: 5px;
+}
+
+.modelos img{
+	
+	width: 300px;
+	border-radius: 10px;
+}
+
+
+.jes img{
+	object-fit: cover;
+	width: 260px;
+	height: 320px;
+	object-position: top;
+	margin: 4px;
+}
